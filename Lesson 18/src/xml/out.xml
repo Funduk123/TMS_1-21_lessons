@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peoples>
+    <people>
+        <title>1</title>
+        <firstName>Данила</firstName>
+        <lastName>Ребковец</lastName>
+    </people>
+    <people>
+        <title>2</title>
+        <firstName>Вася</firstName>
+        <lastName>Пупкин</lastName>
+    </people>
+    <people>
+        <title>3</title>
+        <firstName>Ничего</firstName>
+        <lastName>Непонимакович</lastName>
+    </people>
+</peoples>
