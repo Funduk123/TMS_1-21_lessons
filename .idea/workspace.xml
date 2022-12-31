@@ -4,7 +4,111 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cb107fa-0a49-47bd-9a7c-056c2dc49a54" name="Changes" comment="" />
+    <list default="true" id="9cb107fa-0a49-47bd-9a7c-056c2dc49a54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jaxb_api_2_4_0_b180830_0359.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jaxb_core_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jaxb_impl_2_4_0_b180830_0438.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/Lesson 10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/src/Checkout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/src/Task_1/DocumentNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/src/Task_1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/src/Task_2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/src/Task_2/Work2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/src/Task_3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/src/Task_3/Work3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/Lesson 11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/src/DocumentNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/src/Exc1a2b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/src/Exc555.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/src/ExcABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12/Lesson 12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12/src/FileCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12/src/allNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12/src/invalidNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12/src/validNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13/Lesson 13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13/src/FileCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13/src/doc1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13/src/doc2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13/src/invalidNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13/src/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13/src/validNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 14/Lesson 14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 14/src/Custom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 14/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 15/Lesson 15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17/Lesson 17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17/src/docs/doc1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17/src/docs/doc2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17/src/docs/doc3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 18/JAXB/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 18/JAXB/jaxb-api-2.4.0-b180830.0359.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 18/JAXB/jaxb-core-2.3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 18/JAXB/jaxb-impl-2.4.0-b180830.0438.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 18/Lesson 18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 18/src/xml/in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 18/src/xml/out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 19/Lesson 19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 19/src/Task_1/JoinRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 19/src/Task_1/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 19/src/Task_1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 19/src/Task_2_and_3/ReLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 19/src/Task_2_and_3/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 19/src/Task_2_and_3/Synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/Lesson 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 20/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 20/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 3/Lesson 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 4/Lesson 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 5/Lesson 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/Lesson 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/src/Additional_task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/src/Checkout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/src/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/src/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/src/HDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/src/RAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/Lesson 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/src/Additional_task/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/src/Additional_task/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/src/Additional_task/Profession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/src/Additional_task/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/src/Task/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/src/Task/Figures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/src/Task/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/src/Task/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/Lesson 8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/src/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 9/Lesson 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 9/src/ThreeDimensionalCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 9/src/TwoDimensionalCS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +135,30 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "azul-1.8",
+    "jdk.selected.JAVA_MODULE": "17 (2)",
+    "last_opened_file_path": "D:/Courses/TMS/Lesson_23",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.42068964",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Courses\TMS_1-21_lessons\Lesson 20\src\main" />
+      <recent name="D:\Courses\TMS_1-21_lessons\Lesson 20\target" />
+      <recent name="D:\Courses\TMS_1-21_lessons\Lesson 20\target\classes" />
+      <recent name="D:\Courses\TMS_1-21_lessons\Lesson 20\target\classes\model" />
+      <recent name="D:\Courses\TMS_1-21_lessons\Lesson 20" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672476789411</updated>
-      <workItem from="1672476791166" duration="386000" />
+      <workItem from="1672476791166" duration="3027000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1672476963234</created>
@@ -58,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672476963234</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson 1">
+      <created>1672477409325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672477409325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,6 +191,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="master" />
-    <option name="LAST_COMMIT_MESSAGE" value="master" />
+    <MESSAGE value="Lesson 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 1" />
   </component>
 </project>
